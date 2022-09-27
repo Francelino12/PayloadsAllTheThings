@@ -8,3 +8,7 @@ Linux Privilege Escalation - https://github.com/swisskyrepo/PayloadsAllTheThings
 Checklist - Linux Privilege Escalation - https://book.hacktricks.xyz/linux-unix/linux-privilege-escalation-checklist
 
 Sushant 747's Guide (Country dependant - may need VPN) - https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_-_linux.html
+
+Linux PrivEsc Lab - https://tryhackme.com/room/linuxprivescarena
+
+TryHackMe - https://tryhackme.com/
